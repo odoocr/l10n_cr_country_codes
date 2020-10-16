@@ -2,7 +2,7 @@
 
 {
     'name': 'Codigos Pais para Facturación electrónica Costa Rica',
-    'version': '12.0.0.1',
+    'version': '10.0.0.1',
     'author': 'CRLibre.org',
     'license': 'AGPL-3',
     'website': 'https://www.delfixcr.com',
